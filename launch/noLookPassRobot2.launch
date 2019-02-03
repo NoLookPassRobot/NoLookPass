@@ -3,5 +3,4 @@
 	<node name="masterPosition_node" pkg="no_look_pass_robot" type="masterPosition_node" output="screen"/>
 	<node name="masterRouteEstimation_node" pkg="no_look_pass_robot" type="masterRouteEstimation_node" output="screen"/>
 	<node name="cognition_node" pkg="no_look_pass_robot" type="cognition_node" output="screen"/>
-	<node name="actuation_node" pkg="no_look_pass_robot" type="actuation_node" output="screen"/>
 </launch>
